@@ -17,7 +17,7 @@ The package currently contains the following files :
 ## How to use this policy package
 
 *  Make sure the directory containing the `eic_rucio_policy_package` is in the PYTHONPATH for the Rucio server.
-* add/edit follwoing to rucio.cfg
+* add/edit followoing to rucio.cfg
 ```
 [policy]
 package = eic_rucio_policy_package
